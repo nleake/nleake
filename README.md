@@ -7,10 +7,10 @@ I'm Nick—a senior product manager and designer at USCIS working on Global to s
 
 ### How I work 💪
 ---
-- User Research: user interviews, usability tests, journey maps
-- UI Design: prototyping (Sketch, Figma), illustration (Medibang)
+- User Research: user interviews, usability tests, journey maps, SQL
+- UI/UX Design: prototyping (Sketch, Figma), illustration (Medibang)
 - Frontend: HTML, CSS, SASS, JavaScript
-- Product Management: user stories (JIRA, Trello), roadmap, acceptance testing
+- Product Management: user stories (JIRA, Trello), Excel
 
 ### More about me 🧐
 ---
