@@ -14,8 +14,8 @@ I'm Nick—a senior product manager and designer at USCIS working on Global to s
 
 ### More about me 🧐
 ---
-- 🤙  I believe that working in small, balanced teams can help achieve meaningful results quickly.
-- 🙀  Cruft and clutter make me cringe.
-- ☕️  I love coffee and learning from others.
-- 🎨  I'm currently working on my digital illustration skills and teaching myself React.
-- 💥  One thing I've been putting is off starting my own web comic.
+- I believe that working in small, balanced teams can help achieve meaningful results quickly.
+- Cruft and clutter make me cringe.
+- I love coffee and learning from others.
+- I'm currently working on my digital illustration skills and teaching myself React.
+- One thing I've been putting is off starting my own web comic.
