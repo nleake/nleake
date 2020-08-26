@@ -3,7 +3,7 @@
 ### Hola 👋
 ---
 
-I'm Nick—a senior product manager and designer at USCIS working on Global to support refugee case processing. I previously worked on the asylum team to increase efficiency in how the agency receives, vets, and adjudicates asylum applications. I love drawing in my spare time, being outdoors, and trying to find time to work through my backlog of movies, books, and video games. 
+I'm Nick—a senior product manager and designer at USCIS working on Global to support refugee case processing. I previously worked on the asylum team to make receiving and vetting asylum applications more efficient. I love drawing in my spare time, being outdoors, and trying to find time to work through my backlog of movies, books, and video games. 
 
 ### How I work 💪
 ---
@@ -14,8 +14,7 @@ I'm Nick—a senior product manager and designer at USCIS working on Global to s
 
 ### More about me 🧐
 ---
-- I believe that working in small, balanced teams can help achieve meaningful results quickly.
+- I believe that small, balanced teams can achieve meaningful results quickly.
 - Cruft and clutter make me cringe.
 - I love coffee and learning from others.
-- I'm currently working on my digital illustration skills and teaching myself React.
 - One thing I've been putting is off starting my own web comic.
