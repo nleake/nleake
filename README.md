@@ -1,14 +1,13 @@
 ### Hola 👋
 ---
 
-I'm Nick—a designer and product manager interested in meaningful software. I've worked with agencies, journalists, and the federal government to create solution that make tasks easier. I love drawing in my spare time, being outdoors, and trying to find time to work through my backlog of movies, books, and video games. 
+I'm Nick—a designer and illustrator interested in building web apps. I've worked with agencies, journalists, and the federal government to create simple solutions to complex problems. I love drawing in my spare time, being outdoors, and trying to find time to work through my backlog of movies, books, and video games. 
 
 ### How I work 💪
 ---
 - User Research: user interviews, usability tests, journey maps, SQL
 - UI Design: prototyping (Sketch, Figma), illustration (Affinity)
-- Frontend: HTML, CSS, SASS, JavaScript
-- Product Management: user stories (JIRA, Trello), Excel
+- Dev: HTML, CSS, React, Express, jQuery
 
 ### More about me 🧐
 ---
