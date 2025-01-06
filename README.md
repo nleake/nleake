@@ -7,7 +7,7 @@ I'm Nick—a designer and illustrator interested in building web apps. I've work
 ---
 - User Research: user interviews, usability tests, journey maps, SQL
 - UI Design: prototyping (Sketch, Figma), illustration (Procreate, Affinity)
-- Dev: HTML, CSS, JS (React, Express)
+- Dev: HTML, CSS, JS
 
 ### More about me 🧐
 ---
